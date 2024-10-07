@@ -101,7 +101,7 @@
   <h3>Let's Connect 🌐</h3>
   <p>Feel free to reach out through any of these platforms:</p>
   <a href="mailto:"><img src="https://img.shields.io/badge/Email-Reach%20Out-informational?style=flat&logo=gmail&logoColor=white&color=2bbc8a"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com"><img src="https://img.shields.io/twitter/follow/sreeraglp?style=social"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com"><img src="https://img.shields.io/twitter/follow/?style=social"></a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>&nbsp;&nbsp;
   <a href="https://dev.to/"><img src="https://img.shields.io/badge/Dev.to-Read%20Articles-black"></a>&nbsp;&nbsp;
   <a href="https://codepen.io"><img src="https://img.shields.io/badge/CodePen-View%20Projects-lightgrey"></a>
